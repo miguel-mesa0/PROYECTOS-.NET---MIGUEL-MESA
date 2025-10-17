@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\source\\repos\\Ejercicios\\Ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7EF719-1F99-4A99-BC65-826A88B63609}|Ejercicios\\Ejercicios.csproj|c:\\users\\sena\\source\\repos\\ejercicios\\ejercicios\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7EF719-1F99-4A99-BC65-826A88B63609}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\Ejercicios\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\Ejercicios\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeToolTip": "Ejercicios\\Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:36:36.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
