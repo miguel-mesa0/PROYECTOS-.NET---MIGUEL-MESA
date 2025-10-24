@@ -1,0 +1,8 @@
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\bin\Debug\POO.exe
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\bin\Debug\POO.pdb
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\obj\Debug\POO.exe
+C:\Users\Sena\source\repos\ficha 3147912\POO\POO\obj\Debug\POO.pdb

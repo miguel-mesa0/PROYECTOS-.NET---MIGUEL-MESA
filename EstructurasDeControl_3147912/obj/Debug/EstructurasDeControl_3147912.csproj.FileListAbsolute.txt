@@ -1,0 +1,16 @@
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\bin\Debug\EstructurasDeControl_3147912.exe.config
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\bin\Debug\EstructurasDeControl_3147912.exe
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\bin\Debug\EstructurasDeControl_3147912.pdb
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.exe
+C:\Users\Sena\source\repos\ficha 3147912\EstructurasDeControl_3147912\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.pdb
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\bin\Debug\EstructurasDeControl_3147912.exe.config
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\bin\Debug\EstructurasDeControl_3147912.exe
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\bin\Debug\EstructurasDeControl_3147912.pdb
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.exe
+C:\Users\Sena\source\repos\ficha 3147912\POO\EstructurasDeControl_3147912\obj\Debug\EstructurasDeControl_3147912.pdb
