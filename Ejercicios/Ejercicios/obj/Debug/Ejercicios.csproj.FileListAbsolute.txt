@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\Sena\source\repos\ficha 3147912\PROYECTOS-3147912-Miguel Mesa\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
+C:\Users\Sena\source\repos\Ejercicios\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\Sena\source\repos\Ejercicios\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\Sena\source\repos\Ejercicios\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\Sena\source\repos\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\Sena\source\repos\Ejercicios\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb

@@ -1,0 +1,8 @@
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\bin\Debug\TALLER 3.exe.config
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\bin\Debug\TALLER 3.exe
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\bin\Debug\TALLER 3.pdb
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\obj\Debug\TALLER 3.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\obj\Debug\TALLER 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\obj\Debug\TALLER 3.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\obj\Debug\TALLER 3.exe
+C:\Users\Sena\source\repos\ficha 3147912\Talleres\TALLER 3\TALLER 3\obj\Debug\TALLER 3.pdb
