@@ -1,0 +1,102 @@
+﻿@model Tienda.Models.Venta
+@using Tienda.Models
+
+@{
+    ViewData["Title"] = "Edit";
+    var productos = ViewBag.Productos as List<Producto>;
+}
+
+<div class="max-w-5xl">
+    <div class="mb-12">
+        <h1 class="text-4xl font-extralight text-neutral-900 tracking-tight mb-3">Editar venta</h1>
+        <div class="w-16 h-px bg-neutral-900 mb-4"></div>
+        <p class="text-neutral-500 font-light">Modifica la información de la venta registrada.</p>
+    </div>
+
+    <form asp-action="Edit" method="post" class="space-y-8">
+        <div asp-validation-summary="ModelOnly" class="bg-neutral-50 border-l-2 border-red-900 px-6 py-4 text-sm text-red-900"></div>
+
+        <div class="space-y-2">
+            <label asp-for="ClienteId" class="block text-[11px] uppercase tracking-widest text-neutral-400 font-medium"></label>
+            <select asp-for="ClienteId" class="w-full px-0 py-3 bg-transparent border-0 border-b-2 border-neutral-200 text-neutral-900 focus:outline-none focus:border-neutral-900 transition-colors duration-200" asp-items="ViewBag.ClienteId">
+                <option value="">-- Seleccione un cliente --</option>
+            </select>
+            <span asp-validation-for="ClienteId" class="text-xs text-red-900 block mt-2"></span>
+        </div>
+
+        <div class="border-l-4 border-neutral-900 bg-neutral-50 p-8">
+            <div class="flex items-center justify-between mb-6">
+                <h4 class="text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Productos de la venta</h4>
+                <button type="button"
+                        class="px-6 py-2 text-[10px] uppercase tracking-widest text-neutral-900 border border-neutral-300 hover:border-neutral-900 font-medium transition-all duration-200"
+                        onclick="agregarProducto()">
+                    + Agregar
+                </button>
+            </div>
+
+            <div id="productosContainer" class="space-y-4">
+                <div class="grid grid-cols-1 md:grid-cols-12 gap-4 producto-row">
+                    <div class="md:col-span-7 space-y-2">
+                        <select name="ProductoId" class="w-full px-0 py-3 bg-transparent border-0 border-b-2 border-neutral-300 text-neutral-900 focus:outline-none focus:border-neutral-900 transition-colors duration-200">
+                            <option value="">-- Seleccione un producto --</option>
+                            @foreach (var p in productos)
+                            {
+                                <option value="@p.ProductoId">
+                                    @p.Nombre (@p.StockDisponible en stock)
+                                </option>
+                            }
+                        </select>
+                    </div>
+                    <div class="md:col-span-3 space-y-2">
+                        <input type="number" name="Cantidad" class="w-full px-0 py-3 bg-transparent border-0 border-b-2 border-neutral-300 text-neutral-900 placeholder-neutral-400 focus:outline-none focus:border-neutral-900 transition-colors duration-200" min="1" placeholder="Cantidad" />
+                    </div>
+                    <div class="md:col-span-2 flex items-center">
+                        <button type="button"
+                                class="w-full px-4 py-2 text-[10px] uppercase tracking-widest text-white bg-red-900 hover:bg-red-800 font-medium transition-colors duration-200"
+                                onclick="eliminarFila(this)">
+                            Quitar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="flex justify-end gap-6 pt-8 mt-8 border-t border-neutral-200">
+            <a asp-action="Index"
+               class="px-8 py-3 text-sm uppercase tracking-wider text-neutral-600 hover:text-neutral-900 font-medium transition-colors duration-200">
+                Cancelar
+            </a>
+            <button type="submit"
+                    class="px-8 py-3 text-sm uppercase tracking-wider text-white bg-neutral-900 hover:bg-neutral-800 font-medium transition-colors duration-200">
+                Guardar venta
+            </button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        function agregarProducto() {
+            const container = document.getElementById('productosContainer');
+            const filaOriginal = container.querySelector('.producto-row');
+            const nuevaFila = filaOriginal.cloneNode(true);
+
+            nuevaFila.querySelector('select[name="ProductoId"]').selectedIndex = 0;
+            nuevaFila.querySelector('input[name="Cantidad"]').value = '';
+
+            container.appendChild(nuevaFila);
+        }
+
+        function eliminarFila(button) {
+            const container = document.getElementById('productosContainer');
+            const filas = container.getElementsByClassName('producto-row');
+            if (filas.length > 1) {
+                button.closest('.producto-row').remove();
+            }
+        }
+    </script>
+}

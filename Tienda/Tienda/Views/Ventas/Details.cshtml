@@ -1,0 +1,61 @@
+﻿@model Tienda.Models.Venta
+
+@{
+    ViewData["Title"] = "Detalles de venta";
+}
+
+<div class="max-w-5xl">
+    <div class="mb-12 flex items-start justify-between">
+        <div>
+            <h1 class="text-4xl font-extralight text-neutral-900 tracking-tight mb-3">Detalle de la venta</h1>
+            <div class="w-16 h-px bg-neutral-900 mb-4"></div>
+            <p class="text-neutral-500 font-light">Información completa de la venta seleccionada.</p>
+        </div>
+        <a asp-action="Index"
+           class="px-6 py-2 text-xs uppercase tracking-widest text-neutral-600 hover:text-neutral-900 border border-neutral-300 hover:border-neutral-900 transition-all duration-200">
+            ← Volver
+        </a>
+    </div>
+
+    <div class="bg-neutral-50 border-l-4 border-neutral-900 p-8 mb-8">
+        <h2 class="text-[11px] uppercase tracking-widest text-neutral-400 font-medium mb-6">Información general</h2>
+        <dl class="space-y-6">
+            <div class="grid grid-cols-3 gap-4 pb-6 border-b border-neutral-200">
+                <dt class="text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Cliente</dt>
+                <dd class="col-span-2 text-neutral-900 font-light">@Model.Cliente?.NombreCompleto</dd>
+            </div>
+            <div class="grid grid-cols-3 gap-4 pb-6 border-b border-neutral-200">
+                <dt class="text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Fecha</dt>
+                <dd class="col-span-2 text-neutral-900 font-light">@Model.Fecha.ToString("dd/MM/yyyy HH:mm")</dd>
+            </div>
+            <div class="grid grid-cols-3 gap-4">
+                <dt class="text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Total</dt>
+                <dd class="col-span-2 text-neutral-900 font-light">@Model.Total.ToString("C")</dd>
+            </div>
+        </dl>
+    </div>
+
+    <div class="border border-neutral-300 mb-8">
+        <table class="min-w-full divide-y divide-neutral-300">
+            <thead class="bg-neutral-50">
+                <tr>
+                    <th class="px-6 py-4 text-left text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Producto</th>
+                    <th class="px-6 py-4 text-right text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Cantidad</th>
+                    <th class="px-6 py-4 text-right text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Precio unitario</th>
+                    <th class="px-6 py-4 text-right text-[11px] uppercase tracking-widest text-neutral-400 font-medium">Subtotal</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+                @foreach (var d in Model.DetallesVenta)
+                {
+                    <tr class="hover:bg-neutral-50 transition-colors duration-150">
+                        <td class="px-6 py-4 font-light text-neutral-900">@d.Producto?.Nombre</td>
+                        <td class="px-6 py-4 text-right font-light text-neutral-900">@d.Cantidad</td>
+                        <td class="px-6 py-4 text-right font-light text-neutral-900">@d.PrecioUnitario.ToString("C")</td>
+                        <td class="px-6 py-4 text-right font-light text-neutral-900">@d.Subtotal.ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

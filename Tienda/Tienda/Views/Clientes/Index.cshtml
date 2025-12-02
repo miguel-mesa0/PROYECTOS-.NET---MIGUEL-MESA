@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Tienda.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<div class="flex flex-col gap-6">
+    <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+        <div>
+            <h1 class="text-2xl font-semibold text-neutral-800">Gestión de clientes</h1>
+            <p class="text-sm text-neutral-500">Administra la información básica de tus clientes.</p>
+        </div>
+
+        <a asp-action="Create"
+           class="px-4 py-2 rounded-lg text-sm font-semibold text-white bg-neutral-800 hover:bg-neutral-900 shadow">
+            + Nuevo cliente
+        </a>
+    </div>
+
+    <form asp-action="Index" method="get"
+          class="grid grid-cols-1 md:grid-cols-2 gap-3 bg-neutral-50 border border-neutral-300 rounded-xl p-4">
+        <div>
+            <label class="block text-xs font-medium text-neutral-600 mb-1">Buscar</label>
+            <input type="text" name="buscar"
+                   class="w-full rounded-lg border border-neutral-300 bg-white text-sm focus:ring-0 focus:border-neutral-600"
+                   placeholder="Nombre o correo..." />
+        </div>
+
+        <div class="flex items-end">
+            <button type="submit"
+                    class="w-full px-4 py-2 rounded-lg text-sm font-semibold text-white bg-neutral-800 hover:bg-neutral-900 shadow">
+                Buscar
+            </button>
+        </div>
+    </form>
+
+    <div class="overflow-hidden border border-neutral-300 rounded-xl">
+        <table class="min-w-full divide-y divide-neutral-300 text-sm">
+            <thead class="bg-neutral-100">
+                <tr>
+                    <th class="px-4 py-2 text-left font-semibold text-neutral-700">Nombre</th>
+                    <th class="px-4 py-2 text-left font-semibold text-neutral-700">Correo</th>
+                    <th class="px-4 py-2 text-left font-semibold text-neutral-700">Teléfono</th>
+                    <th class="px-4 py-2 text-left font-semibold text-neutral-700">Dirección</th>
+                    <th class="px-4 py-2 text-right font-semibold text-neutral-700">Acciones</th>
+                </tr>
+            </thead>
+
+            <tbody class="divide-y divide-neutral-200">
+                @foreach (var item in Model)
+                {
+                    <tr class="hover:bg-neutral-50">
+                        <td class="px-4 py-2">@item.NombreCompleto</td>
+                        <td class="px-4 py-2">@item.Correo</td>
+                        <td class="px-4 py-2">@item.Telefono</td>
+                        <td class="px-4 py-2">@item.Direccion</td>
+
+                        <td class="px-4 py-2">
+                            <div class="flex justify-end gap-2">
+                                <a asp-action="Edit" asp-route-id="@item.ClienteId"
+                                   class="px-3 py-1 rounded-lg text-xs font-medium text-blue-800 bg-blue-100 hover:bg-blue-200">
+                                    Editar
+                                </a>
+
+                                <a asp-action="Details" asp-route-id="@item.ClienteId"
+                                   class="px-3 py-1 rounded-lg text-xs font-medium text-neutral-800 bg-neutral-100 hover:bg-neutral-200">
+                                    Detalles
+                                </a>
+
+                                <a asp-action="Delete" asp-route-id="@item.ClienteId"
+                                   class="px-3 py-1 rounded-lg text-xs font-medium text-red-700 bg-red-100 hover:bg-red-200">
+                                    Eliminar
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
