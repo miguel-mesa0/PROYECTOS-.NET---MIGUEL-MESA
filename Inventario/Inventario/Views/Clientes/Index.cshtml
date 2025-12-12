@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Inventario.Models.Inventario.Cliente>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<div class="flex items-center justify-between mb-6">
+    <div>
+        <h1 class="text-2xl font-bold text-slate-800">Cliente</h1>
+        <p class="text-sm text-slate-500">Administra los clientes.</p>
+    </div>
+
+    <a asp-action="Create"
+       class="inline-flex items-center px-4 py-2 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white text-sm font-semibold shadow">
+        <i class="fa-solid fa-plus mr-2"></i> Nuevo Cliente
+    </a>
+</div>
+
+<div class="bg-white rounded-xl shadow-md overflow-hidden">
+    <table class="min-w-full text-sm">
+        <thead class="bg-slate-50 border-b border-slate-200">
+            <tr>
+                <th class="px-4 py-3 text-left font-semibold text-slate-600">Nombre</th>
+                <th class="px-4 py-3 text-left font-semibold text-slate-600">Documento</th>
+                <th class="px-4 py-3 text-left font-semibold text-slate-600">Telefono</th>
+                <th class="px-4 py-3 text-left font-semibold text-slate-600">Email</th>
+                <th class="px-4 py-3 text-right font-semibold text-slate-600">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="border-b border-slate-100 hover:bg-slate-50">
+                    <td class="px-4 py-2">@item.Nombre</td>
+                    <td class="px-4 py-2">@item.Documento</td>
+                    <td class="px-4 py-2">@item.Telefono</td>
+                    <td class="px-4 py-2">@item.Email</td>
+
+                    <td class="px-4 py-2 text-right space-x-2">
+                        <a asp-action="Details" asp-route-id="@item.Id"
+                           class="text-xs px-2 py-1 rounded bg-slate-100 text-slate-700 hover:bg-slate-200">
+                            Detalles
+                        </a>
+                        <a asp-action="Edit" asp-route-id="@item.Id"
+                           class="text-xs px-2 py-1 rounded bg-amber-100 text-amber-800 hover:bg-amber-200">
+                            Editar
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.Id"
+                           class="text-xs px-2 py-1 rounded bg-red-100 text-red-700 hover:bg-red-200">
+                            Eliminar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

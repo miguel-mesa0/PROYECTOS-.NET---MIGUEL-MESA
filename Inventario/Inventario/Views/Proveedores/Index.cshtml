@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Inventario.Models.Inventario.Proveedore>
+
+@{
+    ViewData["Title"] = "Proveedores";
+}
+
+<div class="space-y-6">
+    <div class="flex justify-between items-center mb-6">
+        <h1 class="text-2xl font-bold text-slate-800">Proveedores</h1>
+        <a asp-action="Create" class="inline-flex items-center px-4 py-2 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white text-sm font-semibold shadow">
+            <i class="fa-solid fa-plus mr-2"></i> Nuevo proveedor
+        </a>
+    </div>
+
+    <div class="bg-white rounded-xl shadow overflow-hidden">
+        <table class="min-w-full text-xs md:text-sm">
+            <thead class="bg-slate-100 border-b border-slate-200">
+                <tr>
+                    <th class="px-3 py-2 text-left font-semibold text-slate-600 uppercase">Nombre</th>
+                    <th class="px-3 py-2 text-left font-semibold text-slate-600 uppercase">NIT</th>
+                    <th class="px-3 py-2 text-left font-semibold text-slate-600 uppercase">Teléfono</th>
+                    <th class="px-3 py-2 text-left font-semibold text-slate-600 uppercase">Email</th>
+                    <th class="px-3 py-2 text-right font-semibold text-slate-600 uppercase">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var proveedor in Model)
+                {
+                    <tr class="border-b border-slate-100 hover:bg-slate-50">
+                        <td class="px-3 py-2 align-middle text-slate-800">
+                            @proveedor.Nombre
+                        </td>
+                        <td class="px-3 py-2 align-middle text-slate-700">
+                            @proveedor.NIT
+                        </td>
+                        <td class="px-3 py-2 align-middle text-slate-700">
+                            @proveedor.Telefono
+                        </td>
+                        <td class="px-3 py-2 align-middle text-slate-600">
+                            @proveedor.Email
+                        </td>
+                        <td class="px-3 py-2 align-middle text-right space-x-1">
+                            <a asp-action="Details" asp-route-id="@proveedor.Id"
+                               class="inline-flex items-center px-2 py-1 text-[11px] rounded bg-slate-200 hover:bg-slate-300 text-slate-800">
+                                <i class="fa-solid fa-eye mr-1"></i> Ver
+                            </a>
+                            <a asp-action="Edit" asp-route-id="@proveedor.Id"
+                               class="inline-flex items-center px-2 py-1 text-[11px] rounded bg-blue-500 hover:bg-blue-600 text-white">
+                                <i class="fa-solid fa-pen mr-1"></i> Editar
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@proveedor.Id"
+                               class="inline-flex items-center px-2 py-1 text-[11px] rounded bg-red-500 hover:bg-red-600 text-white">
+                                <i class="fa-solid fa-trash mr-1"></i> Eliminar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

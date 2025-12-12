@@ -1,0 +1,81 @@
+﻿@model Inventario.Models.Inventario.Repuesto
+
+@{
+    ViewData["Title"] = "Detalle de repuesto";
+}
+
+<div class="space-y-6">
+    <div class="flex justify-between items-center">
+        <h1 class="text-2xl font-bold text-slate-800">Detalle de repuesto</h1>
+
+        <a asp-action="Index"
+           class="px-4 py-2 bg-slate-100 text-slate-700 rounded text-xs hover:bg-slate-200">
+            Volver
+        </a>
+    </div>
+
+    <div class="bg-white rounded-xl shadow p-6 grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Código</p>
+            <p class="text-slate-800 font-semibold">@Model.Codigo</p>
+        </div>
+
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Nombre</p>
+            <p class="text-slate-800">@Model.Nombre</p>
+        </div>
+
+        <div class="md:col-span-2">
+            <p class="text-xs uppercase text-slate-500 font-semibold">Descripción</p>
+            <p class="text-slate-700">@Model.Descripcion</p>
+        </div>
+
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Categoría</p>
+            <p class="text-slate-800">@Model.Categoria?.Nombre</p>
+        </div>
+
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Costo promedio</p>
+            <p class="text-slate-800">$ @Model.PrecioCostoPromedio.ToString("N2")</p>
+        </div>
+
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Margen de ganancia (%)</p>
+            <p class="text-slate-800">@Model.MargenGananciaPorcentaje.ToString("N2") %</p>
+        </div>
+
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Descuento (%)</p>
+            <p class="text-slate-800">@((Model.DescuentoPorcentaje ?? 0).ToString("N2")) %</p>
+        </div>
+
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Stock mínimo global</p>
+            <p class="text-slate-800">@Model.StockMinimoGlobal</p>
+        </div>
+
+        <div>
+            <p class="text-xs uppercase text-slate-500 font-semibold">Estado</p>
+            @if (Model.Activo)
+            {
+                <span class="inline-flex px-2 py-1 rounded-full text-[11px] bg-emerald-100 text-emerald-700">
+                    Activo
+                </span>
+            }
+            else
+            {
+                <span class="inline-flex px-2 py-1 rounded-full text-[11px] bg-red-100 text-red-700">
+                    Inactivo
+                </span>
+            }
+        </div>
+    </div>
+
+    <div class="flex justify-end space-x-2">
+        <a asp-action="Edit" asp-route-id="@Model.Id"
+           class="px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded text-xs">
+            Editar
+        </a>
+    </div>
+</div>

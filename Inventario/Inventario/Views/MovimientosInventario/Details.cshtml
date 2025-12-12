@@ -1,0 +1,62 @@
+﻿@model Inventario.Models.Inventario.MovimientosInventario
+
+@{
+    ViewData["Title"] = "Detalle de movimiento";
+    string tipoDoc = Model.TipoDocumento switch
+    {
+        1 => "Compra",
+        2 => "Venta",
+        3 => "Ajuste",
+        _ => "Otro"
+    };
+}
+
+<div class="space-y-6">
+    <div class="flex justify-between items-center">
+        <h1 class="text-2xl font-bold text-slate-800">Detalle de movimiento de inventario</h1>
+        <a asp-action="Index"
+           class="px-4 py-2 bg-slate-100 text-slate-700 rounded text-xs hover:bg-slate-200">
+            Volver al Kardex
+        </a>
+    </div>
+
+    <div class="bg-white rounded-xl shadow p-6 text-sm space-y-3">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Fecha</p>
+                <p class="text-slate-800">@Model.Fecha.ToString("dd/MM/yyyy HH:mm")</p>
+            </div>
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Documento</p>
+                <p class="text-slate-800">@tipoDoc-@Model.DocumentoId (@tipoDoc)</p>
+            </div>
+
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Repuesto</p>
+                <p class="text-slate-800">@Model.Repuesto?.Nombre (@Model.Repuesto?.Codigo)</p>
+            </div>
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Bodega</p>
+                <p class="text-slate-800">@Model.Bodega?.Nombre</p>
+            </div>
+
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Cantidad</p>
+                <p class="text-slate-800">@Model.Cantidad</p>
+            </div>
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Stock después del movimiento</p>
+                <p class="text-slate-800">@Model.StockResultado</p>
+            </div>
+
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Costo unitario</p>
+                <p class="text-slate-800">@Model.CostoUnitario.ToString("N2")</p>
+            </div>
+            <div>
+                <p class="text-xs uppercase text-slate-500 font-semibold">Valor del movimiento</p>
+                <p class="text-slate-800">@((Model.CostoUnitario * Model.Cantidad).ToString("N2"))</p>
+            </div>
+        </div>
+    </div>
+</div>

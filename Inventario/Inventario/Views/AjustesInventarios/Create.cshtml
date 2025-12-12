@@ -1,0 +1,143 @@
+﻿@using Inventario.Models.Inventario
+@model Inventario.Models.Inventario.AjustesInventario
+
+@{
+    ViewData["Title"] = "Nuevo ajuste de inventario";
+}
+
+<div class="space-y-6">
+    <div class="flex justify-between items-center">
+        <h1 class="text-2xl font-bold text-slate-800">Nuevo ajuste de inventario</h1>
+        <a asp-action="Index"
+           class="px-4 py-2 bg-slate-100 text-slate-700 rounded text-xs hover:bg-slate-200">
+            Volver
+        </a>
+    </div>
+
+    <div class="bg-white rounded-xl shadow p-6">
+        <form asp-action="Create" method="post" id="ajusteForm">
+
+            <div asp-validation-summary="All" class="text-red-600 text-sm mb-3"></div>
+
+            <!-- CABECERA -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div>
+                    <label asp-for="BodegaId" class="text-sm text-slate-700 font-semibold mb-1 block">Bodega</label>
+                    <select asp-for="BodegaId" class="w-full px-3 py-2 border rounded text-sm">
+                        <option value="">-- Seleccione --</option>
+                        @foreach (var b in ViewData["Bodegas"] as List<Bodega>)
+                        {
+                            <option value="@b.Id">@b.Nombre</option>
+                        }
+                    </select>
+                    <span asp-validation-for="BodegaId" class="text-xs text-red-600"></span>
+                </div>
+
+                <div>
+                    <label class="text-sm text-slate-700 font-semibold mb-1 block">Fecha</label>
+                    <input type="text"
+                           value="@DateTime.Now.ToString("dd/MM/yyyy HH:mm")"
+                           class="w-full px-3 py-2 bg-slate-100 rounded border text-sm" disabled />
+                </div>
+
+                <div>
+                    <label asp-for="Motivo" class="text-sm text-slate-700 font-semibold mb-1 block">Motivo</label>
+                    <input asp-for="Motivo"
+                           class="w-full px-3 py-2 border rounded text-sm" />
+                    <span asp-validation-for="Motivo" class="text-xs text-red-600"></span>
+                </div>
+            </div>
+
+            <!-- DETALLES -->
+            <div class="flex justify-between items-center mt-6">
+                <h2 class="text-sm font-bold text-slate-700 uppercase">Líneas de ajuste</h2>
+                <button type="button" id="btnAgregarDetalle"
+                        class="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-xs">
+                    + Agregar línea
+                </button>
+            </div>
+
+            <p class="text-xs text-slate-500 mt-1">
+                * Cantidades positivas = entrada de stock, negativas = salida de stock.
+            </p>
+
+            <div class="overflow-x-auto mt-3">
+                <table class="min-w-full text-xs" id="tablaDetalles">
+                    <thead class="bg-slate-100">
+                        <tr>
+                            <th class="px-3 py-2 text-left">Repuesto</th>
+                            <th class="px-3 py-2 text-right">Cantidad (+/-)</th>
+                            <th class="px-3 py-2 text-center">Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+
+            <div class="flex justify-end mt-6">
+                <button type="submit"
+                        class="px-5 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-sm">
+                    Guardar ajuste
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        (function () {
+            let index = 0;
+            const repuestos = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(
+                            ViewData["Repuestos"] as List<Repuesto>
+                    ));
+
+        const tbody = document.querySelector("#tablaDetalles tbody");
+
+            function crearFila() {
+                const tr = document.createElement("tr");
+                tr.classList.add("border-b");
+
+                tr.innerHTML = `
+                    <td class="px-3 py-2">
+                        <select name="detalles[${index}].RepuestoId"
+                                class="w-full border rounded px-2 py-1 text-xs">
+                            <option value="">-- Seleccione --</option>
+                            ${repuestos.map(r => `<option value="${r.Id}">${r.Nombre}</option>`).join("")}
+                        </select>
+                    </td>
+
+                    <td class="px-3 py-2 text-right">
+                        <input type="number" name="detalles[${index}].Cantidad"
+                               class="w-24 border rounded px-1 py-1 text-right text-xs"
+                               step="1" />
+                    </td>
+
+                    <td class="px-3 py-2 text-center">
+                        <button type="button"
+                                class="btn-eliminar px-2 py-1 bg-red-500 hover:bg-red-600 text-white rounded text-xs">
+                            X
+                        </button>
+                    </td>
+                `;
+
+                tbody.appendChild(tr);
+                index++;
+            }
+
+            document.getElementById("btnAgregarDetalle")
+                .addEventListener("click", () => crearFila());
+
+            tbody.addEventListener("click", e => {
+                if (e.target.classList.contains("btn-eliminar")) {
+                    e.target.closest("tr").remove();
+                }
+            });
+
+            // Primera fila por defecto
+            crearFila();
+        })();
+    </script>
+}

@@ -1,0 +1,52 @@
+﻿@model Inventario.Models.Inventario.AjustesInventario
+
+@{
+    ViewData["Title"] = "Eliminar ajuste";
+}
+
+<div class="space-y-6">
+
+    <div class="flex justify-between items-center">
+        <h1 class="text-2xl font-bold text-red-600">Eliminar ajuste de inventario</h1>
+
+        <a asp-action="Index"
+           class="px-4 py-2 bg-slate-100 text-slate-700 rounded text-xs hover:bg-slate-200">
+            Volver
+        </a>
+    </div>
+
+    <div class="bg-white rounded-xl shadow p-6 text-sm">
+        <p class="mb-4 text-slate-700">
+            ¿Estás seguro de que deseas eliminar este ajuste?
+            <br />
+            <strong class="text-red-600">
+                Esto revertirá el stock afectado por el ajuste y eliminará los movimientos del kardex.
+            </strong>
+        </p>
+
+        <ul class="mb-4 text-slate-700">
+            <li><strong>Número:</strong> AJU-@Model.Id</li>
+            <li><strong>Bodega:</strong> @Model.Bodega?.Nombre</li>
+            <li><strong>Fecha:</strong> @Model.Fecha.ToString("dd/MM/yyyy HH:mm")</li>
+            <li><strong>Motivo:</strong> @Model.Motivo</li>
+            <li><strong>Líneas:</strong> @Model.AjustesInventarioDetalles.Count</li>
+        </ul>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="flex justify-end space-x-2">
+                <button type="submit"
+                        class="px-5 py-2 bg-red-600 hover:bg-red-700 text-white rounded text-sm">
+                    Eliminar definitivamente
+                </button>
+
+                <a asp-action="Index"
+                   class="px-5 py-2 bg-slate-200 hover:bg-slate-300 rounded text-sm">
+                    Cancelar
+                </a>
+            </div>
+        </form>
+    </div>
+
+</div>

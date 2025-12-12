@@ -1,0 +1,64 @@
+﻿@model Inventario.Models.Inventario.Compra
+
+@{
+    ViewData["Title"] = "Editar compra";
+    var bodegas = ViewData["Bodegas"] as List<Inventario.Models.Inventario.Bodega>;
+    var proveedores = ViewData["Proveedores"] as List<Inventario.Models.Inventario.Proveedore>;
+}
+
+<div class="space-y-6">
+
+    <div class="flex justify-between items-center">
+        <h1 class="text-2xl font-bold text-slate-800">Editar compra</h1>
+
+        <a asp-action="Index"
+           class="px-4 py-2 bg-slate-100 text-slate-700 rounded text-xs hover:bg-slate-200">
+            Volver
+        </a>
+    </div>
+
+    <div class="bg-white rounded-xl shadow p-6">
+
+        <form asp-action="Edit" method="post">
+
+            <input type="hidden" asp-for="Id" />
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+
+                <div>
+                    <label class="text-sm font-semibold text-slate-700">Bodega</label>
+                    <select asp-for="BodegaId" class="w-full px-3 py-2 border rounded text-sm">
+                        @foreach (var b in bodegas)
+                        {
+                            <option value="@b.Id">@b.Nombre</option>
+                        }
+                    </select>
+                </div>
+
+                <div>
+                    <label class="text-sm font-semibold text-slate-700">Proveedor</label>
+                    <select asp-for="ProveedorId" class="w-full px-3 py-2 border rounded text-sm">
+                        @foreach (var p in proveedores)
+                        {
+                            <option value="@p.Id">@p.Nombre</option>
+                        }
+                    </select>
+                </div>
+
+                <div>
+                    <label class="text-sm text-slate-700 font-semibold">Número de documento</label>
+                    <input asp-for="NumeroDocumento" class="w-full px-3 py-2 border rounded text-sm" />
+                </div>
+            </div>
+
+            <div class="flex justify-end mt-6">
+                <button type="submit"
+                        class="px-5 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-sm">
+                    Guardar cambios
+                </button>
+            </div>
+        </form>
+
+    </div>
+
+</div>

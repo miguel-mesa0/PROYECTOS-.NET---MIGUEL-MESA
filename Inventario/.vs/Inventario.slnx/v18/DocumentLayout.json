@@ -1,0 +1,1233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\source\\repos\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\repuestoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\repuestoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\repuestoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\repuestoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\repuestolistadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\repuestolistadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\ajustesinventarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\ajustesinventarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\comprasdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\comprasdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\ventasdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\ventasdetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\bodegas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\bodegas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\bodegas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\bodegas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\bodegas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\bodegas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\bodegas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\bodegas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\movimientosinventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\movimientosinventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\proveedores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\proveedores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\compras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\compras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\movimientosinventario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\movimientosinventario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\proveedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\proveedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\proveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\proveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\proveedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\proveedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\repuestoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\repuestoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\repuestoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\repuestoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\movimientosinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\movimientosinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\ajustesinventariodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\ajustesinventariodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\stocksrepuestosbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\stocksrepuestosbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\movimientosinventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\movimientosinventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\movimientosinventario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\movimientosinventario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\movimientosinventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\movimientosinventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\movimientosinventario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\movimientosinventario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\ajustesinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\ajustesinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ajustesinventarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ajustesinventarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ajustesinventarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ajustesinventarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ajustesinventarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ajustesinventarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ajustesinventarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ajustesinventarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ajustesinventarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ajustesinventarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\repuestoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\repuestoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\repuestoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\repuestoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\compras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\compras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\compras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\compras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\models\\inventario\\proveedore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\inventario\\proveedore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\controllers\\bodegascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\bodegascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\data\\rolesconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\data\\rolesconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|c:\\users\\mateo\\source\\repos\\inventario\\inventario\\data\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68D4AC-8828-D4C3-EA90-3D551D7B891A}|Inventario\\Inventario.csproj|solutionrelative:inventario\\data\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepuestoListadoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\RepuestoListadoViewModel.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\RepuestoListadoViewModel.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\RepuestoListadoViewModel.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\RepuestoListadoViewModel.cs",
+              "ViewState": "AgIAAAYAAADwAAAAAAA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T21:31:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Repuestoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Repuestoes\\Index.cshtml",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwF8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:59:48.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AjustesInventariosController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\AjustesInventariosController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\AjustesInventariosController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\AjustesInventariosController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\AjustesInventariosController.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAQwOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:39:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repuesto.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Repuesto.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\Repuesto.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Repuesto.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\Repuesto.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:08:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepuestoesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\RepuestoesController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\RepuestoesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\RepuestoesController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\RepuestoesController.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAQwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:36:01.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:22:47.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\ComprasController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\ComprasController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\ComprasController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\ComprasController.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAABQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:26:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAABkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:21:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAACANDMzM7MuwDAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T03:36:09.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComprasDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\ComprasDetalle.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\ComprasDetalle.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\ComprasDetalle.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\ComprasDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:27:26.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentasDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\VentasDetalle.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\VentasDetalle.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\VentasDetalle.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\VentasDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:47:12.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Compra.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\Compra.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Compra.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\Compra.cs",
+              "ViewState": "AgIAABgAAACQ+v///38ywCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:09:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Bodegas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Bodegas\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:38:36.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Bodegas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Bodegas\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:38:15.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Bodegas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Bodegas\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:38:07.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Bodegas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Bodegas\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Bodegas\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:29:57.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Proveedores\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Proveedores\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAyszMzMwnwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:25:06.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Proveedores\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Proveedores\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:25:00.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Proveedores\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Proveedores\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:23:32.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\MovimientosInventario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\MovimientosInventario\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:32:01.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Compras\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Compras\\Details.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:01:57.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:04:20.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\MovimientosInventario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\MovimientosInventario\\Index.cshtml",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAYwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:31:35.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Proveedores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Proveedores\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:16:28.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Repuestoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Repuestoes\\Create.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:00:00.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Repuestoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Repuestoes\\Edit.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:00:09.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovimientosInventario.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\MovimientosInventario.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\MovimientosInventario.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\MovimientosInventario.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\MovimientosInventario.cs",
+              "ViewState": "AgIAAB4AAACAZWZmZmY2wCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:26:43.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Proveedores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Proveedores\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Proveedores\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:16:39.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AjustesInventarioDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\AjustesInventarioDetalle.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\AjustesInventarioDetalle.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\AjustesInventarioDetalle.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\AjustesInventarioDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:49:47.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StocksRepuestosBodega.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\StocksRepuestosBodega.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\StocksRepuestosBodega.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\StocksRepuestosBodega.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\StocksRepuestosBodega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:09:11.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\MovimientosInventario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\MovimientosInventario\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:31:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\MovimientosInventario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\MovimientosInventario\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:31:43.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MovimientosInventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\MovimientosInventarioController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\MovimientosInventarioController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\MovimientosInventarioController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\MovimientosInventarioController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:30:18.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\MovimientosInventario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\MovimientosInventario\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\MovimientosInventario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:32:10.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:05:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:51:16.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Categorias\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Categorias\\Delete.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:13:18.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T18:00:38.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T17:56:56.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Categoria.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\Categoria.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Categoria.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\Categoria.cs",
+              "ViewState": "AgIAAAQAAABgm5mZmZkuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:23:09.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Categorias\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Categorias\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:13:14.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AjustesInventario.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\AjustesInventario.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\AjustesInventario.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\AjustesInventario.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\AjustesInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:28:16.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Venta.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\Venta.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Venta.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\Venta.cs",
+              "ViewState": "AgIAACAAAAAAYGZmZmYcwCcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:46:47.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:11:37.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:12:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAMAAAAg//////8gwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:31:27.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\AjustesInventarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\AjustesInventarios\\Index.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:44:17.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\AjustesInventarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\AjustesInventarios\\Create.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:44:27.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\AjustesInventarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\AjustesInventarios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:44:47.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\AjustesInventarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\AjustesInventarios\\Delete.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:44:55.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\AjustesInventarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\AjustesInventarios\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\AjustesInventarios\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:44:36.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Repuestoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Repuestoes\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:00:23.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Repuestoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Repuestoes\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Repuestoes\\Details.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:00:17.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:23:21.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:23:14.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Ventas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Ventas\\Details.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:23:04.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAowOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:22:56.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Compras\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Compras\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:01:49.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Compras\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Delete.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Compras\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:01:40.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Compras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Create.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Compras\\Create.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAIwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:01:28.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Compras\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Compras\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Compras\\Index.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:01:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Proveedore.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Proveedore.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Inventario\\Proveedore.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Models\\Inventario\\Proveedore.cs",
+              "RelativeToolTip": "Inventario\\Models\\Inventario\\Proveedore.cs",
+              "ViewState": "AgIAAAsAAABAmJmZmZkxwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:18:46.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:13:02.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Inventario\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:05:28.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Inventario\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T04:05:16.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RolesConstants.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\RolesConstants.cs",
+              "RelativeDocumentMoniker": "Inventario\\Data\\RolesConstants.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\RolesConstants.cs",
+              "RelativeToolTip": "Inventario\\Data\\RolesConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:52:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Inventario\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "Inventario\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:52:17.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Inventario\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Inventario\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-01T03:42:42.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Inventario\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Inventario\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:39:56.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAMAAADg//////8lwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:34:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAACUAAAAAMDMzMzMDwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:33:49.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BodegasController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\BodegasController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\BodegasController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Controllers\\BodegasController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\BodegasController.cs",
+              "ViewState": "AgIAAAcAAADgYmZmZmYUwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:32:30.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "InventarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\InventarioContext.cs",
+              "RelativeDocumentMoniker": "Inventario\\Data\\InventarioContext.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Data\\InventarioContext.cs",
+              "RelativeToolTip": "Inventario\\Data\\InventarioContext.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:23:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\Program.cs",
+              "RelativeToolTip": "Inventario\\Program.cs",
+              "ViewState": "AgIAABIAAAAANDMzMzP7v0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:46:24.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Inventario\\Inventario\\appsettings.json",
+              "RelativeToolTip": "Inventario\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T02:46:25.767Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
