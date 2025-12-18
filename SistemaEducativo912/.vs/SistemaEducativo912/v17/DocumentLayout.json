@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\migrations\\20251120205821_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\migrations\\20251120205821_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\models\\sistemaeducativo912context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\models\\sistemaeducativo912context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|c:\\users\\sena\\source\\repos\\sistemaeducativo912\\sistemaeducativo912\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6DF4492-473C-405A-AF75-9AA527461B44}|SistemaEducativo912\\SistemaEducativo912.csproj|solutionrelative:sistemaeducativo912\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaEducativo912\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:39:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatriculasController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\MatriculasController.cs",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Controllers\\MatriculasController.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\MatriculasController.cs",
+              "RelativeToolTip": "SistemaEducativo912\\Controllers\\MatriculasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:39:20.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\CursoesController.cs",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Controllers\\CursoesController.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\CursoesController.cs",
+              "RelativeToolTip": "SistemaEducativo912\\Controllers\\CursoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:39:15.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "SistemaEducativo912\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:37:26.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Program.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Program.cs",
+              "RelativeToolTip": "SistemaEducativo912\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:12:20.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaEducativo912\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T21:07:54.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251120205821_identity.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Migrations\\20251120205821_identity.cs",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Migrations\\20251120205821_identity.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Migrations\\20251120205821_identity.cs",
+              "RelativeToolTip": "SistemaEducativo912\\Migrations\\20251120205821_identity.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAgwNIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:58:22.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SistemaEducativo912\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-20T20:51:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SistemaEducativo912Context.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Models\\SistemaEducativo912Context.cs",
+              "RelativeDocumentMoniker": "SistemaEducativo912\\Models\\SistemaEducativo912Context.cs",
+              "ToolTip": "C:\\Users\\Sena\\source\\repos\\SistemaEducativo912\\SistemaEducativo912\\Models\\SistemaEducativo912Context.cs",
+              "RelativeToolTip": "SistemaEducativo912\\Models\\SistemaEducativo912Context.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAqwE0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:44:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,0 @@
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.csproj.AssemblyReference.cache
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.AssemblyInfoInputs.cache
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.AssemblyInfo.cs
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.csproj.CoreCompileInputs.cache
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.RazorAssemblyInfo.cache
-C:\Users\migue\source\repos\3147912\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\MiguelMesa.RazorAssemblyInfo.cs
